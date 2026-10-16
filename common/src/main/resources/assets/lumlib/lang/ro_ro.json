@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Setări moduri",
+  "lumlib.modlist.empty": "Niciun mod nu s-a înregistrat încă la LumLib.",
+  "lumlib.modlist.nosettings": "Fără setări",
+  "lumlib.button.configure": "Configurează modurile",
+  "lumlib.button.configure.tooltip": "Deschide setările modurilor (LumLib)",
+  "lumlib.colorpicker.hex": "Culoare hex",
+  "lumlib.opt.dragarmor.enabled": "Activat",
+  "lumlib.opt.armor-hud-percentages.enabled": "Afișează procentele",
+  "lumlib.opt.armor-hud-percentages.shadow": "Umbră text",
+  "lumlib.opt.armor-hud-percentages.saturation": "Saturația culorii",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Afișează zecimalele",
+  "lumlib.opt.armor-hud-percentages.textScale": "Dimensiunea textului"
+}

@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — Mod設定",
+  "lumlib.modlist.empty": "LumLibに登録されたModはまだありません。",
+  "lumlib.modlist.nosettings": "設定なし",
+  "lumlib.button.configure": "Modを設定",
+  "lumlib.button.configure.tooltip": "Mod設定を開く（LumLib）",
+  "lumlib.colorpicker.hex": "16進数カラー"
+}

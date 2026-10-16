@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — Mod beállítások",
+  "lumlib.modlist.empty": "Még egyetlen mod sem regisztrált a LumLibnél.",
+  "lumlib.modlist.nosettings": "Nincs beállítás",
+  "lumlib.button.configure": "Modok beállítása",
+  "lumlib.button.configure.tooltip": "Mod beállítások megnyitása (LumLib)",
+  "lumlib.colorpicker.hex": "Hex szín"
+}

@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Ρυθμίσεις Mod",
+  "lumlib.modlist.empty": "Κανένα mod δεν έχει καταχωρηθεί ακόμα στο LumLib.",
+  "lumlib.modlist.nosettings": "Καμία ρύθμιση",
+  "lumlib.button.configure": "Διαμόρφωση mod",
+  "lumlib.button.configure.tooltip": "Άνοιγμα ρυθμίσεων mod (LumLib)",
+  "lumlib.colorpicker.hex": "Δεκαεξαδικό χρώμα",
+  "lumlib.opt.dragarmor.enabled": "Ενεργό",
+  "lumlib.opt.armor-hud-percentages.enabled": "Εμφάνιση ποσοστών",
+  "lumlib.opt.armor-hud-percentages.shadow": "Σκιά κειμένου",
+  "lumlib.opt.armor-hud-percentages.saturation": "Κορεσμός χρώματος",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Εμφάνιση δεκαδικών",
+  "lumlib.opt.armor-hud-percentages.textScale": "Μέγεθος κειμένου"
+}

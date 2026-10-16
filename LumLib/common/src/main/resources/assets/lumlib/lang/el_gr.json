@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — Ρυθμίσεις Mod",
+  "lumlib.modlist.empty": "Κανένα mod δεν έχει καταχωρηθεί ακόμα στο LumLib.",
+  "lumlib.modlist.nosettings": "Καμία ρύθμιση",
+  "lumlib.button.configure": "Διαμόρφωση mod",
+  "lumlib.button.configure.tooltip": "Άνοιγμα ρυθμίσεων mod (LumLib)",
+  "lumlib.colorpicker.hex": "Δεκαεξαδικό χρώμα"
+}

@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Modinställningar",
+  "lumlib.modlist.empty": "Inga mods har registrerat sig hos LumLib än.",
+  "lumlib.modlist.nosettings": "Inga inställningar",
+  "lumlib.button.configure": "Konfigurera mods",
+  "lumlib.button.configure.tooltip": "Öppna modinställningar (LumLib)",
+  "lumlib.colorpicker.hex": "Hexfärg",
+  "lumlib.opt.dragarmor.enabled": "Aktiverad",
+  "lumlib.opt.armor-hud-percentages.enabled": "Visa procent",
+  "lumlib.opt.armor-hud-percentages.shadow": "Textskugga",
+  "lumlib.opt.armor-hud-percentages.saturation": "Färgmättnad",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Visa decimaler",
+  "lumlib.opt.armor-hud-percentages.textScale": "Textstorlek"
+}

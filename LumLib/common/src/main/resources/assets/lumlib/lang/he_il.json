@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — הגדרות מודים",
+  "lumlib.modlist.empty": "עדיין לא נרשמו מודים ל-LumLib.",
+  "lumlib.modlist.nosettings": "אין הגדרות",
+  "lumlib.button.configure": "הגדרת מודים",
+  "lumlib.button.configure.tooltip": "פתח הגדרות מודים (LumLib)",
+  "lumlib.colorpicker.hex": "צבע הקסדצימלי"
+}

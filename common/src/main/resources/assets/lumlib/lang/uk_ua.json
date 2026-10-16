@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Налаштування модів",
+  "lumlib.modlist.empty": "Жоден мод ще не зареєстрований у LumLib.",
+  "lumlib.modlist.nosettings": "Немає налаштувань",
+  "lumlib.button.configure": "Налаштувати моди",
+  "lumlib.button.configure.tooltip": "Відкрити налаштування модів (LumLib)",
+  "lumlib.colorpicker.hex": "Колір HEX",
+  "lumlib.opt.dragarmor.enabled": "Увімкнено",
+  "lumlib.opt.armor-hud-percentages.enabled": "Показувати відсотки",
+  "lumlib.opt.armor-hud-percentages.shadow": "Тінь тексту",
+  "lumlib.opt.armor-hud-percentages.saturation": "Насиченість кольору",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Показувати десяткові знаки",
+  "lumlib.opt.armor-hud-percentages.textScale": "Розмір тексту"
+}

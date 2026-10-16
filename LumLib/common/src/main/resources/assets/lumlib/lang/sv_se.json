@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — Modinställningar",
+  "lumlib.modlist.empty": "Inga mods har registrerat sig hos LumLib än.",
+  "lumlib.modlist.nosettings": "Inga inställningar",
+  "lumlib.button.configure": "Konfigurera mods",
+  "lumlib.button.configure.tooltip": "Öppna modinställningar (LumLib)",
+  "lumlib.colorpicker.hex": "Hexfärg"
+}

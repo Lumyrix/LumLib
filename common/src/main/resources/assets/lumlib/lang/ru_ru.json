@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Настройки модов",
+  "lumlib.modlist.empty": "Пока ни один мод не зарегистрирован в LumLib.",
+  "lumlib.modlist.nosettings": "Нет настроек",
+  "lumlib.button.configure": "Настроить моды",
+  "lumlib.button.configure.tooltip": "Открыть настройки модов (LumLib)",
+  "lumlib.colorpicker.hex": "Цвет в HEX",
+  "lumlib.opt.dragarmor.enabled": "Включено",
+  "lumlib.opt.armor-hud-percentages.enabled": "Показывать проценты",
+  "lumlib.opt.armor-hud-percentages.shadow": "Тень текста",
+  "lumlib.opt.armor-hud-percentages.saturation": "Насыщенность цвета",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Показывать десятичные знаки",
+  "lumlib.opt.armor-hud-percentages.textScale": "Размер текста"
+}

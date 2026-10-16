@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — Modien asetukset",
+  "lumlib.modlist.empty": "Yksikään modi ei ole vielä rekisteröitynyt LumLibiin.",
+  "lumlib.modlist.nosettings": "Ei asetuksia",
+  "lumlib.button.configure": "Muokkaa modeja",
+  "lumlib.button.configure.tooltip": "Avaa modien asetukset (LumLib)",
+  "lumlib.colorpicker.hex": "Hex-väri"
+}

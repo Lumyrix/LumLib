@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — Nastavení modů",
+  "lumlib.modlist.empty": "V LumLib zatím nejsou registrovány žádné mody.",
+  "lumlib.modlist.nosettings": "Žádná nastavení",
+  "lumlib.button.configure": "Nastavit mody",
+  "lumlib.button.configure.tooltip": "Otevřít nastavení modů (LumLib)",
+  "lumlib.colorpicker.hex": "Hex barva"
+}

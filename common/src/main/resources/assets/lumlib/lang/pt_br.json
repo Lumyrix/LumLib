@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Configurações de mods",
+  "lumlib.modlist.empty": "Nenhum mod se registrou na LumLib ainda.",
+  "lumlib.modlist.nosettings": "Sem configurações",
+  "lumlib.button.configure": "Configurar mods",
+  "lumlib.button.configure.tooltip": "Abrir configurações de mods (LumLib)",
+  "lumlib.colorpicker.hex": "Cor hexadecimal",
+  "lumlib.opt.dragarmor.enabled": "Ativado",
+  "lumlib.opt.armor-hud-percentages.enabled": "Mostrar porcentagens",
+  "lumlib.opt.armor-hud-percentages.shadow": "Sombra no texto",
+  "lumlib.opt.armor-hud-percentages.saturation": "Saturação da cor",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Mostrar decimais",
+  "lumlib.opt.armor-hud-percentages.textScale": "Tamanho do texto"
+}

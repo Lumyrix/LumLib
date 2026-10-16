@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — Setări moduri",
+  "lumlib.modlist.empty": "Niciun mod nu s-a înregistrat încă la LumLib.",
+  "lumlib.modlist.nosettings": "Fără setări",
+  "lumlib.button.configure": "Configurează modurile",
+  "lumlib.button.configure.tooltip": "Deschide setările modurilor (LumLib)",
+  "lumlib.colorpicker.hex": "Culoare hex"
+}

@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Modien asetukset",
+  "lumlib.modlist.empty": "Yksikään modi ei ole vielä rekisteröitynyt LumLibiin.",
+  "lumlib.modlist.nosettings": "Ei asetuksia",
+  "lumlib.button.configure": "Muokkaa modeja",
+  "lumlib.button.configure.tooltip": "Avaa modien asetukset (LumLib)",
+  "lumlib.colorpicker.hex": "Hex-väri",
+  "lumlib.opt.dragarmor.enabled": "Käytössä",
+  "lumlib.opt.armor-hud-percentages.enabled": "Näytä prosentit",
+  "lumlib.opt.armor-hud-percentages.shadow": "Tekstin varjo",
+  "lumlib.opt.armor-hud-percentages.saturation": "Värikylläisyys",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Näytä desimaalit",
+  "lumlib.opt.armor-hud-percentages.textScale": "Tekstin koko"
+}

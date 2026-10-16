@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — 모드 설정",
+  "lumlib.modlist.empty": "아직 LumLib에 등록된 모드가 없습니다.",
+  "lumlib.modlist.nosettings": "설정 없음",
+  "lumlib.button.configure": "모드 설정",
+  "lumlib.button.configure.tooltip": "모드 설정 열기 (LumLib)",
+  "lumlib.colorpicker.hex": "16진수 색상",
+  "lumlib.opt.dragarmor.enabled": "활성화",
+  "lumlib.opt.armor-hud-percentages.enabled": "퍼센트 표시",
+  "lumlib.opt.armor-hud-percentages.shadow": "글자 그림자",
+  "lumlib.opt.armor-hud-percentages.saturation": "색상 채도",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "소수점 표시",
+  "lumlib.opt.armor-hud-percentages.textScale": "텍스트 크기"
+}

@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — 模组设置",
+  "lumlib.modlist.empty": "尚无模组注册到 LumLib。",
+  "lumlib.modlist.nosettings": "无设置",
+  "lumlib.button.configure": "配置模组",
+  "lumlib.button.configure.tooltip": "打开模组设置 (LumLib)",
+  "lumlib.colorpicker.hex": "十六进制颜色"
+}

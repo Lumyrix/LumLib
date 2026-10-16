@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — 模组设置",
+  "lumlib.modlist.empty": "尚无模组注册到 LumLib。",
+  "lumlib.modlist.nosettings": "无设置",
+  "lumlib.button.configure": "配置模组",
+  "lumlib.button.configure.tooltip": "打开模组设置 (LumLib)",
+  "lumlib.colorpicker.hex": "十六进制颜色",
+  "lumlib.opt.dragarmor.enabled": "启用",
+  "lumlib.opt.armor-hud-percentages.enabled": "显示百分比",
+  "lumlib.opt.armor-hud-percentages.shadow": "文字阴影",
+  "lumlib.opt.armor-hud-percentages.saturation": "颜色饱和度",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "显示小数",
+  "lumlib.opt.armor-hud-percentages.textScale": "文字大小"
+}

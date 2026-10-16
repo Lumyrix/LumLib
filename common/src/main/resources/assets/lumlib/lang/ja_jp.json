@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Mod設定",
+  "lumlib.modlist.empty": "LumLibに登録されたModはまだありません。",
+  "lumlib.modlist.nosettings": "設定なし",
+  "lumlib.button.configure": "Modを設定",
+  "lumlib.button.configure.tooltip": "Mod設定を開く（LumLib）",
+  "lumlib.colorpicker.hex": "16進数カラー",
+  "lumlib.opt.dragarmor.enabled": "有効",
+  "lumlib.opt.armor-hud-percentages.enabled": "パーセントを表示",
+  "lumlib.opt.armor-hud-percentages.shadow": "文字の影",
+  "lumlib.opt.armor-hud-percentages.saturation": "色の彩度",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "小数を表示",
+  "lumlib.opt.armor-hud-percentages.textScale": "文字サイズ"
+}

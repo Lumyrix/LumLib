@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "lumlib",
+  "version": "${version}",
+  "name": "LumLib",
+  "description": "A lightweight, dependency-free configuration screen library for Fabric client mods.",
+  "authors": [
+    "Lumyrix"
+  ],
+  "contact": {
+    "homepage": "https://github.com/lumyrix/LumLib",
+    "sources": "https://github.com/lumyrix/LumLib",
+    "issues": "https://github.com/lumyrix/LumLib/issues"
+  },
+  "license": "LICENSE",
+  "icon": "assets/lumlib/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.lumyrix.lumlib.LumLibClientEntrypoint"
+    ],
+    "modmenu": [
+      "dev.lumyrix.lumlib.modmenu.LumLibModMenuIntegration"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.4",
+    "fabric-api": "*",
+    "minecraft": ">=1.21.6 <=1.21.8",
+    "java": ">=21"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

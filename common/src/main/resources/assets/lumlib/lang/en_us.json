@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Mod Settings",
+  "lumlib.modlist.empty": "No mods have registered with LumLib yet.",
+  "lumlib.modlist.nosettings": "No settings",
+  "lumlib.button.configure": "Configure Mods",
+  "lumlib.button.configure.tooltip": "Open mod settings (LumLib)",
+  "lumlib.colorpicker.hex": "Hex color",
+  "lumlib.opt.dragarmor.enabled": "Enabled",
+  "lumlib.opt.armor-hud-percentages.enabled": "Show percentages",
+  "lumlib.opt.armor-hud-percentages.shadow": "Text shadow",
+  "lumlib.opt.armor-hud-percentages.saturation": "Color saturation",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Show decimals",
+  "lumlib.opt.armor-hud-percentages.textScale": "Text size"
+}

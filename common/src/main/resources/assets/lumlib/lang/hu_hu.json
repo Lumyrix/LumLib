@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Mod beállítások",
+  "lumlib.modlist.empty": "Még egyetlen mod sem regisztrált a LumLibnél.",
+  "lumlib.modlist.nosettings": "Nincs beállítás",
+  "lumlib.button.configure": "Modok beállítása",
+  "lumlib.button.configure.tooltip": "Mod beállítások megnyitása (LumLib)",
+  "lumlib.colorpicker.hex": "Hex szín",
+  "lumlib.opt.dragarmor.enabled": "Engedélyezve",
+  "lumlib.opt.armor-hud-percentages.enabled": "Százalékok mutatása",
+  "lumlib.opt.armor-hud-percentages.shadow": "Szövegárnyék",
+  "lumlib.opt.armor-hud-percentages.saturation": "Színtelítettség",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Tizedesjegyek mutatása",
+  "lumlib.opt.armor-hud-percentages.textScale": "Szövegméret"
+}

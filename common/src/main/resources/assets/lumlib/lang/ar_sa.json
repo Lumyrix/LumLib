@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — إعدادات الإضافات",
+  "lumlib.modlist.empty": "لم تسجل أي إضافة في LumLib بعد.",
+  "lumlib.modlist.nosettings": "لا إعدادات",
+  "lumlib.button.configure": "تهيئة الإضافات",
+  "lumlib.button.configure.tooltip": "فتح إعدادات الإضافات (LumLib)",
+  "lumlib.colorpicker.hex": "لون سادس عشري",
+  "lumlib.opt.dragarmor.enabled": "مفعّل",
+  "lumlib.opt.armor-hud-percentages.enabled": "إظهار النسب المئوية",
+  "lumlib.opt.armor-hud-percentages.shadow": "ظل النص",
+  "lumlib.opt.armor-hud-percentages.saturation": "تشبّع اللون",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "إظهار الكسور العشرية",
+  "lumlib.opt.armor-hud-percentages.textScale": "حجم النص"
+}

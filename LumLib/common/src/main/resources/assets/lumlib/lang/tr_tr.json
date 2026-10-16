@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — Mod Ayarları",
+  "lumlib.modlist.empty": "Henüz LumLib'e kayıtlı bir mod yok.",
+  "lumlib.modlist.nosettings": "Ayar yok",
+  "lumlib.button.configure": "Modları Yapılandır",
+  "lumlib.button.configure.tooltip": "Mod ayarlarını aç (LumLib)",
+  "lumlib.colorpicker.hex": "Onaltılık renk"
+}

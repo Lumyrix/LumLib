@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — การตั้งค่าม็อด",
+  "lumlib.modlist.empty": "ยังไม่มีม็อดใดลงทะเบียนกับ LumLib",
+  "lumlib.modlist.nosettings": "ไม่มีการตั้งค่า",
+  "lumlib.button.configure": "ตั้งค่าม็อด",
+  "lumlib.button.configure.tooltip": "เปิดการตั้งค่าม็อด (LumLib)",
+  "lumlib.colorpicker.hex": "สีเลขฐานสิบหก"
+}

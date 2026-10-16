@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — Definições de mods",
+  "lumlib.modlist.empty": "Nenhum mod se registou ainda na LumLib.",
+  "lumlib.modlist.nosettings": "Sem definições",
+  "lumlib.button.configure": "Configurar mods",
+  "lumlib.button.configure.tooltip": "Abrir definições de mods (LumLib)",
+  "lumlib.colorpicker.hex": "Cor hexadecimal"
+}

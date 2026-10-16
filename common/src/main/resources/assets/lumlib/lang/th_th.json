@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — การตั้งค่าม็อด",
+  "lumlib.modlist.empty": "ยังไม่มีม็อดใดลงทะเบียนกับ LumLib",
+  "lumlib.modlist.nosettings": "ไม่มีการตั้งค่า",
+  "lumlib.button.configure": "ตั้งค่าม็อด",
+  "lumlib.button.configure.tooltip": "เปิดการตั้งค่าม็อด (LumLib)",
+  "lumlib.colorpicker.hex": "สีเลขฐานสิบหก",
+  "lumlib.opt.dragarmor.enabled": "เปิดใช้งาน",
+  "lumlib.opt.armor-hud-percentages.enabled": "แสดงเปอร์เซ็นต์",
+  "lumlib.opt.armor-hud-percentages.shadow": "เงาตัวอักษร",
+  "lumlib.opt.armor-hud-percentages.saturation": "ความอิ่มตัวของสี",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "แสดงทศนิยม",
+  "lumlib.opt.armor-hud-percentages.textScale": "ขนาดข้อความ"
+}

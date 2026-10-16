@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Mod Ayarları",
+  "lumlib.modlist.empty": "Henüz LumLib'e kayıtlı bir mod yok.",
+  "lumlib.modlist.nosettings": "Ayar yok",
+  "lumlib.button.configure": "Modları Yapılandır",
+  "lumlib.button.configure.tooltip": "Mod ayarlarını aç (LumLib)",
+  "lumlib.colorpicker.hex": "Onaltılık renk",
+  "lumlib.opt.dragarmor.enabled": "Etkin",
+  "lumlib.opt.armor-hud-percentages.enabled": "Yüzdeleri göster",
+  "lumlib.opt.armor-hud-percentages.shadow": "Metin gölgesi",
+  "lumlib.opt.armor-hud-percentages.saturation": "Renk doygunluğu",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Ondalıkları göster",
+  "lumlib.opt.armor-hud-percentages.textScale": "Metin boyutu"
+}

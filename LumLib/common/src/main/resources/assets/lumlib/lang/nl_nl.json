@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — Mod-instellingen",
+  "lumlib.modlist.empty": "Er zijn nog geen mods geregistreerd bij LumLib.",
+  "lumlib.modlist.nosettings": "Geen instellingen",
+  "lumlib.button.configure": "Mods configureren",
+  "lumlib.button.configure.tooltip": "Mod-instellingen openen (LumLib)",
+  "lumlib.colorpicker.hex": "Hex-kleur"
+}

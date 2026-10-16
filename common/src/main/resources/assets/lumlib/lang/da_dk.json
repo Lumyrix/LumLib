@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Mod-indstillinger",
+  "lumlib.modlist.empty": "Ingen mods har registreret sig hos LumLib endnu.",
+  "lumlib.modlist.nosettings": "Ingen indstillinger",
+  "lumlib.button.configure": "Konfigurer mods",
+  "lumlib.button.configure.tooltip": "Åbn mod-indstillinger (LumLib)",
+  "lumlib.colorpicker.hex": "Hex-farve",
+  "lumlib.opt.dragarmor.enabled": "Aktiveret",
+  "lumlib.opt.armor-hud-percentages.enabled": "Vis procenter",
+  "lumlib.opt.armor-hud-percentages.shadow": "Tekstskygge",
+  "lumlib.opt.armor-hud-percentages.saturation": "Farvemætning",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Vis decimaler",
+  "lumlib.opt.armor-hud-percentages.textScale": "Tekststørrelse"
+}

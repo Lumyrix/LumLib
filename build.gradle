@@ -1,0 +1,7 @@
+// Cada subprojeto declara o proprio plugin Loom (a versao certa pra cada Minecraft),
+// entao nao ha plugins no projeto raiz.
+subprojects {
+    tasks.withType(Jar).configureEach {
+        duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    }
+}

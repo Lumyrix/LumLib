@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Pengaturan Mod",
+  "lumlib.modlist.empty": "Belum ada mod yang terdaftar di LumLib.",
+  "lumlib.modlist.nosettings": "Tidak ada pengaturan",
+  "lumlib.button.configure": "Konfigurasi Mod",
+  "lumlib.button.configure.tooltip": "Buka pengaturan mod (LumLib)",
+  "lumlib.colorpicker.hex": "Warna Hex",
+  "lumlib.opt.dragarmor.enabled": "Aktif",
+  "lumlib.opt.armor-hud-percentages.enabled": "Tampilkan persentase",
+  "lumlib.opt.armor-hud-percentages.shadow": "Bayangan teks",
+  "lumlib.opt.armor-hud-percentages.saturation": "Saturasi warna",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Tampilkan desimal",
+  "lumlib.opt.armor-hud-percentages.textScale": "Ukuran teks"
+}

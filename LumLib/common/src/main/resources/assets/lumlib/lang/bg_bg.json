@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — Настройки на моловете",
+  "lumlib.modlist.empty": "Все още няма регистрирани модове в LumLib.",
+  "lumlib.modlist.nosettings": "Няма настройки",
+  "lumlib.button.configure": "Настройка на модове",
+  "lumlib.button.configure.tooltip": "Отвори настройките на модовете (LumLib)",
+  "lumlib.colorpicker.hex": "Шестнайсетичен цвят"
+}

@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — إعدادات الإضافات",
+  "lumlib.modlist.empty": "لم تسجل أي إضافة في LumLib بعد.",
+  "lumlib.modlist.nosettings": "لا إعدادات",
+  "lumlib.button.configure": "تهيئة الإضافات",
+  "lumlib.button.configure.tooltip": "فتح إعدادات الإضافات (LumLib)",
+  "lumlib.colorpicker.hex": "لون سادس عشري"
+}

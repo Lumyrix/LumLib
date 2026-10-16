@@ -1,0 +1,8 @@
+{
+  "lumlib.modlist.title": "LumLib — Pengaturan Mod",
+  "lumlib.modlist.empty": "Belum ada mod yang terdaftar di LumLib.",
+  "lumlib.modlist.nosettings": "Tidak ada pengaturan",
+  "lumlib.button.configure": "Konfigurasi Mod",
+  "lumlib.button.configure.tooltip": "Buka pengaturan mod (LumLib)",
+  "lumlib.colorpicker.hex": "Warna Hex"
+}

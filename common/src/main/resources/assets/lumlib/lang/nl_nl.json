@@ -1,0 +1,14 @@
+{
+  "lumlib.modlist.title": "LumLib — Mod-instellingen",
+  "lumlib.modlist.empty": "Er zijn nog geen mods geregistreerd bij LumLib.",
+  "lumlib.modlist.nosettings": "Geen instellingen",
+  "lumlib.button.configure": "Mods configureren",
+  "lumlib.button.configure.tooltip": "Mod-instellingen openen (LumLib)",
+  "lumlib.colorpicker.hex": "Hex-kleur",
+  "lumlib.opt.dragarmor.enabled": "Ingeschakeld",
+  "lumlib.opt.armor-hud-percentages.enabled": "Percentages tonen",
+  "lumlib.opt.armor-hud-percentages.shadow": "Tekstschaduw",
+  "lumlib.opt.armor-hud-percentages.saturation": "Kleurverzadiging",
+  "lumlib.opt.armor-hud-percentages.showDecimals": "Decimalen tonen",
+  "lumlib.opt.armor-hud-percentages.textScale": "Tekstgrootte"
+}
